@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:18:1-54:12
+MERGED from [com.android.support:support-v13:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\da200a95d90ec5bd494fd61af3aad985\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\debc5633164d4fddbf9e2d68e00ccf64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\03af9a3d62b9d42e9ae4d10e8997490a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\0f2d5e686b062e75ed15b905274ad9c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\834e45e6830b01707a142017be859fb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\5969ff2a53968513762bb5c72c84faa0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\7d558dc8cb0104d483f55af83c116e50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\323d6361bcab924fc158c876330b3dc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b4ce1a051bd1a5e46dffa31854d528c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d899ae626691c2f8570a0f1fae8fc72a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\e3d7e259fe14e607972bf2ac2ffd6441\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\09ce2a598e1625be07cada351720381e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\d3fcb330780cb0989a4bf9e57259cdf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\92df097f728a9946a7b81f12638321d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\dd9dee1cfa69c475f5a1aaa42207574c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9baaaa6bf69f6b0766dea18761d7be02\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:18:1-54:12
+INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:18:1-54:12
+	package
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:19:5-45
+	android:versionName
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.NFC
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:25:5-62
+	android:name
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:25:22-59
+uses-permission#android.permission.INTERNET
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:26:22-64
+uses-feature#android.hardware.nfc
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:27:5-81
+	android:required
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:27:55-78
+	android:name
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:27:19-54
+application
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:29:5-51:19
+MERGED from [com.android.volley:volley:1.1.0] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\5969ff2a53968513762bb5c72c84faa0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\5969ff2a53968513762bb5c72c84faa0\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:29:18-44
+	android:theme
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:32:9-59
+activity#com.example.android.cardreader.MainActivity
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:33:9-50:20
+	android:label
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:34:19-51
+	android:launchMode
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:35:19-49
+	android:name
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:33:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:38:27-74
+intent-filter#android.nfc.action.TECH_DISCOVERED
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:44:13-46:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:45:25-74
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:47:13-49:59
+	android:resource
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:49:17-56
+	android:name
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml:48:17-66
+uses-sdk
+INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\da200a95d90ec5bd494fd61af3aad985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\da200a95d90ec5bd494fd61af3aad985\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\debc5633164d4fddbf9e2d68e00ccf64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\debc5633164d4fddbf9e2d68e00ccf64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\03af9a3d62b9d42e9ae4d10e8997490a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\03af9a3d62b9d42e9ae4d10e8997490a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\0f2d5e686b062e75ed15b905274ad9c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\0f2d5e686b062e75ed15b905274ad9c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\834e45e6830b01707a142017be859fb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\834e45e6830b01707a142017be859fb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\5969ff2a53968513762bb5c72c84faa0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\5969ff2a53968513762bb5c72c84faa0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-media-compat:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\7d558dc8cb0104d483f55af83c116e50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\7d558dc8cb0104d483f55af83c116e50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\323d6361bcab924fc158c876330b3dc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\323d6361bcab924fc158c876330b3dc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b4ce1a051bd1a5e46dffa31854d528c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\b4ce1a051bd1a5e46dffa31854d528c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d899ae626691c2f8570a0f1fae8fc72a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\d899ae626691c2f8570a0f1fae8fc72a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\e3d7e259fe14e607972bf2ac2ffd6441\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\e3d7e259fe14e607972bf2ac2ffd6441\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\09ce2a598e1625be07cada351720381e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\09ce2a598e1625be07cada351720381e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\d3fcb330780cb0989a4bf9e57259cdf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\d3fcb330780cb0989a4bf9e57259cdf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\92df097f728a9946a7b81f12638321d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\92df097f728a9946a7b81f12638321d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\dd9dee1cfa69c475f5a1aaa42207574c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\dd9dee1cfa69c475f5a1aaa42207574c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9baaaa6bf69f6b0766dea18761d7be02\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] D:\Users\prasad_no\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\9baaaa6bf69f6b0766dea18761d7be02\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+		ADDED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\prasad_no\Desktop\Dev\CS427\android-CardReader\Application\src\main\AndroidManifest.xml

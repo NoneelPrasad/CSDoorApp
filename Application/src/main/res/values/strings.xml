@@ -16,6 +16,6 @@ limitations under the License.
 -->
 
 <resources>
-    <string name="card_title">Sample Loyalty Card</string>
-    <string name="account_number">Account Number</string>
+    <string name="card_title">CS427 NFC Door Lock</string>
+    <string name="account_number">Key ID</string>
 </resources>

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Oct 13 17:29:12 FJT 2019
+0.baseType=DIRECTORY
+0.base=D\:\\Users\\prasad_no\\Desktop\\Dev\\CS427\\android-CardReader\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

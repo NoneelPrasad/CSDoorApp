@@ -20,7 +20,7 @@
       android:layout_height="match_parent"
       android:id="@+id/sample_main_layout">
 
-    <ViewAnimator
+   <!-- <ViewAnimator
           android:id="@+id/sample_output"
           android:layout_width="match_parent"
           android:layout_height="0px"
@@ -48,7 +48,7 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent" />
 
-    </ViewAnimator>
+    </ViewAnimator> -->
 
     <View
           android:layout_width="match_parent"
@@ -56,10 +56,13 @@
           android:background="@android:color/darker_gray" />
 
     <FrameLayout
-          android:id="@+id/sample_content_fragment"
-          android:layout_weight="2"
-          android:layout_width="match_parent"
-          android:layout_height="0px" />
+        android:id="@+id/sample_content_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_weight="2" />
+
+
+
 
 </LinearLayout>
 
